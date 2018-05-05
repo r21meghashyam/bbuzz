@@ -1,0 +1,1 @@
+<img src="temp.php?text=text">

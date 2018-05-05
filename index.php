@@ -1,0 +1,10 @@
+<?php
+if(isset($_SESSION["id"]))
+	{
+	include("logged.php");
+	}
+else
+	{
+	include("welcome.php");
+	}
+?>
